@@ -1,0 +1,32 @@
+MSN,Description,Unit,is
+BMTCB,biomass total consumption,Billion Btu,1
+EMFDB,biomass inputs (feedstock) for the production of fuel ethanol.,Billion Btu,1
+GECCB,direct use of geothermal energy and heat pumps in the commercial sector.,Billion Btu,1
+GEEGB,electricity produced from geothermal energy by the electric power sector.,Billion Btu,1
+GEEGP,electricity produced from geothermal energy by the electric power sector.,Million kilowatthours,1
+GEICB,direct use of geothermal energy and heat pumps in the industrial sector.,Billion Btu,1
+GERCB,direct use of geothermal energy and heat pumps in the residential sector.,Billion Btu,1
+GETCB,geothermal energy total consumption.,Billion Btu,1
+GOCCB,geothermal energy and hydroelectricity consumed in the commercial sector.,Billion Btu,1
+GORCB,geothermal and solar energy consumed in the residential sector.,Billion Btu,1
+HYCCB,hydroelectricity produced in the commercial sector.,Billion Btu,1
+HYCCP,hydroelectricity produced in the commercial sector.,Million kilowatthours,1
+HYEGB,hydroelectricity produced by the electric power sector.,Billion Btu,1
+HYEGP,hydroelectricity produced by the electric power sector.,Million kilowatthours,1
+HYICB,hydroelectricity produced in the industrial sector.,Billion Btu,1
+HYICP,hydroelectricity produced in the industrial sector.,Million kilowatthours,1
+HYTCB,hydroelectricity total production.,Billion Btu,1
+HYTCP,hydroelectricity total production.,Million kilowatthours,1
+HYTXB,hydroelectricity produced by the end-use sectors.,Billion Btu,1
+HYTXP,hydroelectricity produced by the end-use sectors.,Million kilowatthours,1
+NGLPB,natural gas consumed as lease and plant fuel.,Billion Btu,1
+NGLPP,natural gas consumed as lease and plant fuel.,Million cubic feet,1
+PLICB,plant condensate consumed by the industrial sector.,Billion Btu,1
+PLICP,plant condensate consumed by the industrial sector.,Thousand barrels,1
+SOEGB,electricity produced from photovoltaic and solar thermal energy by the electric power sector.,Billion Btu,1
+SOEGP,electricity produced from photovoltaic and solar thermal energy by the electric power sector.,Million kilowatthours,1
+SOTCB,photovoltaic and solar thermal energy total consumption.,Billion Btu,1
+SOTXB,photovoltaic and solar thermal energy total end-use consumption.,Billion Btu,1
+WYEGB,electricity produced from wind energy by the electric power sector.,Billion Btu,1
+WYEGP,electricity produced from wind energy by the electric power sector.,Million kilowatthours,1
+WYTCB,electricity produced from wind energy.,Billion Btu,1

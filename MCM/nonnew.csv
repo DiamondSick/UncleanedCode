@@ -1,0 +1,489 @@
+MSN,Description,Unit,is
+ABICB,aviation gasoline blending components consumed by the industrial sector.,Billion Btu,1
+ABICP,aviation gasoline blending components consumed by the industrial sector.,Thousand barrels,1
+ARICB,asphalt and road oil consumed by the industrial sector.,Billion Btu,1
+ARICD,asphalt and road oil price in the industrial sector.,Dollars per million Btu,1
+ARICP,asphalt and road oil consumed by the industrial sector.,Thousand barrels,1
+ARICV,asphalt and road oil expenditures in the industrial sector.,Million dollars,1
+ARTCB,asphalt and road oil total consumption.,Billion Btu,1
+ARTCD,"asphalt and road oil average price, all sectors.",Dollars per million Btu,1
+ARTCP,asphalt and road oil total consumption.,Thousand barrels,1
+ARTCV,asphalt and road oil total expenditures.,Million dollars,1
+ARTXB,asphalt and road oil total end-use consumption.,Billion Btu,1
+ARTXD,"asphalt and road oil average price, all end-use sectors.",Dollars per million Btu,1
+ARTXP,asphalt and road oil total end-use consumption.,Thousand barrels,1
+ARTXV,asphalt and road oil total end-use expenditures.,Million dollars,1
+AVACB,aviation gasoline consumed by the transportation sector.,Billion Btu,1
+AVACD,aviation gasoline price in the transportation sector.,Dollars per million Btu,1
+AVACP,aviation gasoline consumed by the transportation sector.,Thousand barrels,1
+AVACV,aviation gasoline expenditures in the transportation sector.,Million dollars,1
+AVTCB,aviation gasoline total consumption.,Billion Btu,1
+AVTCD,"aviation gasoline average price, all sectors.",Dollars per million Btu,1
+AVTCP,aviation gasoline total consumption.,Thousand barrels,1
+AVTCV,aviation gasoline total expenditures.,Million dollars,1
+AVTXB,aviation gasoline total end-use consumption.,Billion Btu,1
+AVTXD,"aviation gasoline average price, all end-use sectors.",Dollars per million Btu,1
+AVTXP,aviation gasoline total end-use consumption.,Thousand barrels,1
+AVTXV,aviation gasoline total end-use expenditures.,Million dollars,1
+CCEXB,coal coke exported from the united states. ,Billion Btu,1
+CCEXD,"coal coke exports average price, united states.",Dollars per million Btu,1
+CCEXP,coal coke exported from the united states. ,Thousand short tons,1
+CCEXV,"coal coke exports expenditures, united states.",Million dollars,1
+CCIMB,coal coke imported into the united states.,Billion Btu,1
+CCIMD,"coal coke imports average price, united states.",Dollars per million Btu,1
+CCIMP,coal coke imported into the united states.,Thousand short tons,1
+CCIMV,"coal coke imports expenditures, united states.",Million dollars,1
+CCNIB,coal coke net imports into the united states.,Billion Btu,1
+CCNIP,coal coke net imports into the united states.,Thousand short tons,1
+CCNIV,"coal coke net imports expenditures, united states.",Million dollars,1
+CLOSB,coal consumed by the industrial sector excluding refinery fuel.,Billion Btu,1
+CLRFB,coal consumed as refinery fuel.,Billion Btu,1
+CLXCD,coal average price for all sectors excluding refinery fuel.,Dollars per million Btu,1
+CLXCV,coal expenditures for all sectors excluding refinery fuel.,Million dollars,1
+COICB,crude oil consumed by the industrial sector.,Billion Btu,1
+COICP,crude oil consumed by the industrial sector.,Thousand barrels,1
+COPRK,factor for converting crude oil production from physical units to btu.,Million Btu per barrel,1
+DFACB,distillate fuel oil consumed by the transportation sector.,Billion Btu,1
+DFACD,distillate fuel oil price in the transportation sector.,Dollars per million Btu,1
+DFACP,distillate fuel oil consumed by the transportation sector.,Thousand barrels,1
+DFACV,distillate fuel oil expenditures in the transportation sector.,Million dollars,1
+DFCCB,distillate fuel oil consumed by the commercial sector.,Billion Btu,1
+DFCCD,distillate fuel oil price in the commercial sector.,Dollars per million Btu,1
+DFCCP,distillate fuel oil consumed by the commercial sector.,Thousand barrels,1
+DFCCV,distillate fuel oil expenditures in the commercial sector.,Million dollars,1
+DFEID,distillate fuel oil price in the electric power sector.,Dollars per million Btu,1
+DFEIV,distillate fuel oil expenditures in the electric power sector.,Million dollars,1
+DFICB,distillate fuel oil consumed by the industrial sector.,Billion Btu,1
+DFICD,distillate fuel oil price in the industrial sector.,Dollars per million Btu,1
+DFICP,distillate fuel oil consumed by the industrial sector.,Thousand barrels,1
+DFICV,distillate fuel oil expenditures in the industrial sector.,Million dollars,1
+DFISB,distillate fuel oil consumed by the industrial sector excluding refinery fuel.,Billion Btu,1
+DFRCB,distillate fuel oil consumed by the residential sector.,Billion Btu,1
+DFRCD,distillate fuel oil price in the residential sector.,Dollars per million Btu,1
+DFRCP,distillate fuel oil consumed by the residential sector.,Thousand barrels,1
+DFRCV,distillate fuel oil expenditures in the residential sector.,Million dollars,1
+DFRFB,distillate fuel oil consumed as refinery fuel.,Billion Btu,1
+DFTCB,distillate fuel oil total consumption.,Billion Btu,1
+DFTCD,"distillate fuel oil average price, all sectors.",Dollars per million Btu,1
+DFTCP,distillate fuel oil total consumption.,Thousand barrels,1
+DFTCV,distillate fuel oil total expenditures.,Million dollars,1
+DFTXB,distillate fuel oil total end-use consumption.,Billion Btu,1
+DFTXD,"distillate fuel oil average price, all end-use sectors.",Dollars per million Btu,1
+DFTXP,distillate fuel oil total end-use consumption.,Thousand barrels,1
+DFTXV,distillate fuel oil total end-use expenditures.,Million dollars,1
+DKEIB,distillate fuel oil and kerosene-type jet fuel consumed by the electric power sector.,Billion Btu,1
+DKEID,distillate fuel oil and kerosene-type jet fuel average price in the electric power sector.,Dollars per million Btu,1
+DKEIP,distillate fuel oil and kerosene-type jet fuel consumed by the electric power sector.,Thousand barrels,1
+DKEIV,distillate fuel oil and kerosene-type jet fuel expenditures in the electric power sector.,Million dollars,1
+ELEXB,electricity exported from the united states.,Billion Btu,1
+ELEXD,electricity exports average price.,Dollars per million Btu,1
+ELEXP,electricity exported from the united states.,Million kilowatthours,1
+ELEXV,electricity exports expenditures.,Million dollars,1
+ELIMB,electricity imported into the united states.,Billion Btu,1
+ELIMD,electricity imports average price.,Dollars per million Btu,1
+ELIMP,electricity imported into the united states.,Million kilowatthours,1
+ELIMV,electricity imports expenditures.,Million dollars,1
+ELISB,net interstate sales of electricity and associated losses (negative and positive values).,Billion Btu,1
+ELNIB,net imports of electricity into the united states.,Billion Btu,1
+ELNIP,net imports of electricity into the united states.,Million kilowatthours,1
+EMACB,"fuel ethanol, excluding denaturant, consumed by the transportation sector.   ",Billion Btu,1
+EMACV,"fuel ethanol, excluding denaturant, expenditures in the transportation sector.",Million dollars,1
+EMCCB,"fuel ethanol, excluding denaturant, consumed by the commercial sector ",Billion Btu,1
+EMCCV,"fuel ethanol, excluding denaturant, expenditures in the commercial sector.",Million dollars,1
+EMFDB,biomass inputs (feedstock) for the production of fuel ethanol.,Billion Btu,1
+EMICB,"fuel ethanol, excluding denaturant, consumed by the industrial sector. ",Billion Btu,1
+EMICV,"fuel ethanol, excluding denaturant, expenditures in the industrial sector.",Million dollars,1
+EMLCB,energy losses and co-products from the production of fuel ethanol.,Billion Btu,1
+EMTCB,"fuel ethanol, excluding denaturant, total consumption.",Billion Btu,1
+EMTCP,"fuel ethanol, excluding denaturant, total consumption.",Thousand barrels,1
+EMTCV,"fuel ethanol, excluding denaturant, total expenditures.",Million dollars,1
+ENACP,"fuel ethanol, including denaturant, consumed by the transportation sector.",Thousand barrels,1
+ENCCP,"fuel ethanol, including denaturant, consumed by the commercial sector.",Thousand barrels,1
+ENICP,"fuel ethanol, including denaturant, consumed by the industrial sector.",Thousand barrels,1
+ENPRP,"fuel ethanol production, including denaturant.",Thousand barrels,1
+ENTCK,factor for converting fuel ethanol consumption from physical units to btu.,Million Btu per barrel,1
+ENTCP,"fuel ethanol, including denaturant, total consumption.",Thousand barrels,1
+ESACB,"electricity consumed by (i.e., sold to) the transportation sector.",Billion Btu,1
+ESACD,electricity price in the transportation sector.,Dollars per million Btu,1
+ESACP,"electricity consumed by (i.e., sold to) the transportation sector.",Million kilowatthours,1
+ESACV,electricity expenditures in the transportation sector.,Million dollars,1
+ESCCB,"electricity consumed by (i.e., sold to) the commercial sector.",Billion Btu,1
+ESCCD,electricity price in the commercial sector.,Dollars per million Btu,1
+ESCCP,"electricity consumed by (i.e., sold to) the commercial sector.",Million kilowatthours,1
+ESCCV,electricity expenditures in the commercial sector.,Million dollars,1
+ESICB,"electricity consumed by (i.e., sold to) the industrial sector.",Billion Btu,1
+ESICD,electricity price in the industrial sector.,Dollars per million Btu,1
+ESICP,"electricity consumed by (i.e., sold to) the industrial sector.",Million kilowatthours,1
+ESICV,electricity expenditures in the industrial sector.,Million dollars,1
+ESISB,electricity sales to the industrial sector excluding refinery use.,Billion Btu,1
+ESRCB,"electricity consumed by (i.e., sold to) the residential sector.",Billion Btu,1
+ESRCD,electricity price in the residential sector.,Dollars per million Btu,1
+ESRCP,"electricity consumed by (i.e., sold to) the residential sector.",Million kilowatthours,1
+ESRCV,electricity expenditures in the residential sector.,Million dollars,1
+ESRFB,electricity consumed by refineries.,Billion Btu,1
+ESTCB,"electricity total consumption (i.e., sold).",Billion Btu,1
+ESTCD,"electricity average price, all sectors.",Dollars per million Btu,1
+ESTCP,"electricity total consumption (i.e., sold).",Million kilowatthours,1
+ESTCV,electricity total expenditures.,Million dollars,1
+ESTXB,"electricity total end-use consumption (i.e., sold).",Billion Btu,1
+ESTXD,"electricity average price, all end-use sectors.",Dollars per million Btu,1
+ESTXP,"electricity total end-use consumption (i.e., sold).",Thousand barrels,1
+ESTXV,electricity total end-use expenditures.,Million dollars,1
+FFETK,"fossil fueled steam-electric power plant conversion factor, united states only.",Thousand Btu per kilowatthour,1
+FNICB,"petrochemical feedstocks, naphtha less than 401 degrees f, consumed by the industrial sector.",Billion Btu,1
+FNICD,"petrochemical feedstocks, naphtha less than 401 f, price in the industrial sector.",Dollars per million Btu,1
+FNICP,"petrochemical feedstocks, naphtha less than 401 degrees f, consumed by the industrial sector.",Thousand barrels,1
+FNICV,"petrochemical feedstocks, naphtha less than 401 f, expenditures in the industrial sector.",Million dollars,1
+FOICB,"petrochemical feedstocks, other oils equal to or greater than 401 degrees f, consumed by the industrial sector.",Billion Btu,1
+FOICD,"petrochemical feedstocks, other oils equal to or greater than 401 degrees f, price in the industrial sector.",Dollars per million Btu,1
+FOICP,"petrochemical feedstocks, other oils equal to or greater than 401 degrees f, consumed by the industrial sector.",Thousand barrels,1
+FOICV,"petrochemical feedstocks, other oils equal to or greater than 401 degrees f, expenditures in the industrial sector.",Million dollars,1
+FSICB,"petrochemical feedstocks, still gas, consumed by the industrial sector.",Billion Btu,1
+FSICD,"petrochemical feedstocks, still gas, price in the industrial sector.",Dollars per million Btu,1
+FSICP,"petrochemical feedstocks, still gas, consumed by the industrial sector.",Thousand barrels,1
+FSICV,"petrochemical feedstocks, still gas, expenditures in the industrial sector.",Million dollars,1
+GEEGB,electricity produced from geothermal energy by the electric power sector.,Billion Btu,1
+GEEGP,electricity produced from geothermal energy by the electric power sector.,Million kilowatthours,1
+GOCCB,geothermal energy and hydroelectricity consumed in the commercial sector.,Billion Btu,1
+HYCCB,hydroelectricity produced in the commercial sector.,Billion Btu,1
+HYCCP,hydroelectricity produced in the commercial sector.,Million kilowatthours,1
+HYEGB,hydroelectricity produced by the electric power sector.,Billion Btu,1
+HYEGP,hydroelectricity produced by the electric power sector.,Million kilowatthours,1
+HYICB,hydroelectricity produced in the industrial sector.,Billion Btu,1
+HYICP,hydroelectricity produced in the industrial sector.,Million kilowatthours,1
+HYTCB,hydroelectricity total production.,Billion Btu,1
+HYTCP,hydroelectricity total production.,Million kilowatthours,1
+HYTXB,hydroelectricity produced by the end-use sectors.,Billion Btu,1
+HYTXP,hydroelectricity produced by the end-use sectors.,Million kilowatthours,1
+JFACB,jet fuel consumed by the transportation sector.,Billion Btu,1
+JFACD,jet fuel price in the transportation sector.,Dollars per million Btu,1
+JFACP,jet fuel consumed by the transportation sector.,Thousand barrels,1
+JFACV,jet fuel expenditures in the transportation sector.,Million dollars,1
+JFTCB,jet fuel total consumption.,Billion Btu,1
+JFTCD,"jet fuel average price, all sectors.",Dollars per million Btu,1
+JFTCP,jet fuel total consumption.,Thousand barrels,1
+JFTCV,jet fuel total expenditures.,Million dollars,1
+JFTXB,jet fuel total end-use consumption.,Billion Btu,1
+JFTXD,"jet fuel average price, all end-use sectors.",Dollars per million Btu,1
+JFTXP,jet fuel total end-use consumption.,Thousand barrels,1
+JFTXV,jet fuel total end-use expenditures.,Million dollars,1
+JKACB,kerosene-type jet fuel consumed by the transportation sector.,Billion Btu,1
+JKACP,kerosene-type jet fuel consumed by the transportation sector.,Thousand barrels,1
+JKTCB,kerosene-type jet fuel total consumption.,Billion Btu,1
+JKTCP,kerosene-type jet fuel total consumption.,Thousand barrels,1
+JNACB,naphtha-type jet fuel consumed by the transportation sector.,Billion Btu,1
+JNACP,naphtha-type jet fuel consumed by the transportation sector.,Thousand barrels,1
+JNTCB,naphtha-type jet fuel total consumption.,Billion Btu,1
+JNTCP,naphtha-type jet fuel total consumption.,Thousand barrels,1
+KSCCB,kerosene consumed by the commercial sector.,Billion Btu,1
+KSCCD,kerosene price in the commercial sector.,Dollars per million Btu,1
+KSCCP,kerosene consumed by the commercial sector.,Thousand barrels,1
+KSCCV,kerosene expenditures in the commercial sector.,Million dollars,1
+KSICB,kerosene consumed by the industrial sector.,Billion Btu,1
+KSICD,kerosene price in the industrial sector.,Dollars per million Btu,1
+KSICP,kerosene consumed by the industrial sector.,Thousand barrels,1
+KSICV,kerosene expenditures in the industrial sector.,Million dollars,1
+KSRCB,kerosene consumed by the residential sector.,Billion Btu,1
+KSRCD,kerosene price in the residential sector.,Dollars per million Btu,1
+KSRCP,kerosene consumed by the residential sector.,Thousand barrels,1
+KSRCV,kerosene expenditures in the residential sector.,Million dollars,1
+KSTCB,kerosene total consumption.,Billion Btu,1
+KSTCD,"kerosene average price, all sectors.",Dollars per million Btu,1
+KSTCP,kerosene total consumption.,Thousand barrels,1
+KSTCV,kerosene total expenditures.,Million dollars,1
+KSTXB,kerosene total end-use consumption.,Billion Btu,1
+KSTXD,"kerosene average price, all end-use sectors.",Dollars per million Btu,1
+KSTXP,kerosene total end-use consumption.,Thousand barrels,1
+KSTXV,kerosene total end-use expenditures.,Million dollars,1
+LGACB,lpg consumed by the transportation sector.,Billion Btu,1
+LGACD,lpg price in the transportation sector.,Dollars per million Btu,1
+LGACP,lpg consumed by the transportation sector.,Thousand barrels,1
+LGACV,lpg expenditures in the transportation sector.,Million dollars,1
+LGCCB,lpg consumed by the commercial sector.,Billion Btu,1
+LGCCD,lpg price in the commercial sector.,Dollars per million Btu,1
+LGCCP,lpg consumed by the commercial sector.,Thousand barrels,1
+LGCCV,lpg expenditures in the commercial sector.,Million dollars,1
+LGICB,lpg consumed by the industrial sector.,Billion Btu,1
+LGICD,lpg price in the industrial sector.,Dollars per million Btu,1
+LGICP,lpg consumed by the industrial sector.,Thousand barrels,1
+LGICV,lpg expenditures in the industrial sector.,Million dollars,1
+LGISB,lpg consumed in the industrial sector excluding refinery fuel.,Billion Btu,1
+LGRCB,lpg consumed by the residential sector.,Billion Btu,1
+LGRCD,lpg price in the residential sector.,Dollars per million Btu,1
+LGRCP,lpg consumed by the residential sector.,Thousand barrels,1
+LGRCV,lpg expenditures in the residential sector.,Million dollars,1
+LGRFB,lpg consumed as refinery fuel.,Billion Btu,1
+LGTCB,lpg total consumption.,Billion Btu,1
+LGTCD,"lpg average price, all sectors.",Dollars per million Btu,1
+LGTCK,"factor for converting lpg physical units to btu, united states only.",Million Btu per barrel,1
+LGTCP,lpg total consumption.,Thousand barrels,1
+LGTCV,lpg total expenditures.,Million dollars,1
+LGTXB,lpg total end-use consumption.,Billion Btu,1
+LGTXD,"lpg average price, all end-use sectors.",Dollars per million Btu,1
+LGTXP,lpg total end-use consumption.,Thousand barrels,1
+LGTXV,lpg total end-use expenditures.,Million dollars,1
+LUACB,lubricants consumed by the transportation sector.,Billion Btu,1
+LUACD,lubricants price in the transportation sector.,Dollars per million Btu,1
+LUACP,lubricants consumed by the transportation sector.,Thousand barrels,1
+LUACV,lubricants expenditures in the transportation sector.,Million dollars,1
+LUICB,lubricants consumed by the industrial sector.,Billion Btu,1
+LUICD,lubricants price in the industrial sector.,Dollars per million Btu,1
+LUICP,lubricants consumed by the industrial sector.,Thousand barrels,1
+LUICV,lubricants expenditures in the industrial sector.,Million dollars,1
+LUTCB,lubricants total consumption.,Billion Btu,1
+LUTCD,"lubricants average price, all sectors.",Dollars per million Btu,1
+LUTCP,lubricants total consumption.,Thousand barrels,1
+LUTCV,"lubricants average price, all sectors.",Million dollars,1
+LUTXB,lubricants total end-use consumption.,Billion Btu,1
+LUTXD,"lubricants average price, all end-use sectors.",Dollars per million Btu,1
+LUTXP,lubricants total end-use consumption.,Thousand barrels,1
+LUTXV,lubricants total end-use expenditures.,Million dollars,1
+MBICB,motor gasoline blending components consumed by the industrial sector.,Billion Btu,1
+MBICP,motor gasoline blending components consumed by the industrial sector.,Thousand barrels,1
+MGACB,motor gasoline consumed by the transportation sector.,Billion Btu,1
+MGACD,motor gasoline price in the transportation sector.,Dollars per million Btu,1
+MGACP,motor gasoline consumed by the transportation sector.,Thousand barrels,1
+MGACV,motor gasoline expenditures in the transportation sector.,Million dollars,1
+MGCCB,motor gasoline consumed by the commercial sector.,Billion Btu,1
+MGCCD,motor gasoline price in the commercial sector.,Dollars per million Btu,1
+MGCCP,motor gasoline consumed by the commercial sector.,Thousand barrels,1
+MGCCV,motor gasoline expenditures in the commercial sector.,Million dollars,1
+MGICB,motor gasoline consumed by the industrial sector.,Billion Btu,1
+MGICD,motor gasoline price in the industrial sector.,Dollars per million Btu,1
+MGICP,motor gasoline consumed by the industrial sector.,Thousand barrels,1
+MGICV,motor gasoline expenditures in the industrial sector.,Million dollars,1
+MGTCB,motor gasoline total consumption.,Billion Btu,1
+MGTCD,"motor gasoline average price, all sectors.",Dollars per million Btu,1
+MGTCK,"factor converting motor gasoline physical units to btu, united states only.",Million Btu per barrel,1
+MGTCP,motor gasoline total consumption.,Thousand barrels,1
+MGTCV,motor gasoline total expenditures.,Million dollars,1
+MGTXB,motor gasoline total end-use consumption.,Billion Btu,1
+MGTXD,"motor gasoline average price, all end-use sectors.",Dollars per million Btu,1
+MGTXP,motor gasoline total end-use consumption.,Thousand barrels,1
+MGTXV,motor gasoline total end-use expenditures.,Million dollars,1
+MMTCB,motor gasoline total consumption excluding fuel ethanol.,Billion Btu,1
+MSICB,miscellaneous petroleum products consumed by the industrial sector.,Billion Btu,1
+MSICD,miscellaneous petroleum products price in the industrial sector.,Dollars per million Btu,1
+MSICP,miscellaneous petroleum products consumed by the industrial sector.,Thousand barrels,1
+MSICV,miscellaneous petroleum products expenditures in the industrial sector.,Million dollars,1
+NAICB,natural gasoline consumed by the industrial sector.,Billion Btu,1
+NAICP,natural gasoline consumed by the industrial sector.,Thousand barrels,1
+NGACB,natural gas consumed by the transportation sector. ,Billion Btu,1
+NGACD,natural gas price in the transportation sector.,Dollars per million Btu,1
+NGACP,natural gas consumed by the transportation sector.,Million cubic feet,1
+NGACV,natural gas expenditures in the transportation sector.,Million dollars,1
+NGCCB,natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels).,Billion Btu,1
+NGCCD,natural gas price in the commercial sector (including supplemental gaseous fuels).,Dollars per million Btu,1
+NGCCP,natural gas consumed by (delivered to) the commercial sector (including supplemental gaseous fuels).,Million cubic feet,1
+NGCCV,natural gas expenditures in the commercial sector (including supplemental gaseous fuels).,Million dollars,1
+NGEIB,natural gas consumed by the electric power sector (including supplemental gaseous fuels).,Billion Btu,1
+NGEID,natural gas price in the electric power sector (including supplemental gaseous fuels).,Dollars per million Btu,1
+NGEIK,factor for converting natural gas consumed by the electric power sector from physical units to btu.,Thousand Btu per cubic foot,1
+NGEIP,natural gas consumed by the electric power sector (including supplemental gaseous fuels).,Million cubic feet,1
+NGEIV,natural gas expenditures in the electric power sector (including supplemental gaseous fuels).,Million dollars,1
+NGICB,natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels).,Billion Btu,1
+NGICD,natural gas price in the industrial sector (including supplemental gaseous fuels).,Dollars per million Btu,1
+NGICP,natural gas consumed by (delivered to) the industrial sector (including supplemental gaseous fuels).,Million cubic feet,1
+NGICV,natural gas expenditures in the industrial sector (including supplemental gaseous fuels).,Million dollars,1
+NGISB,natural gas consumed by the industrial sector excluding refinery fuel (including supplemental gaseous fuels).,Billion Btu,1
+NGLPB,natural gas consumed as lease and plant fuel.,Billion Btu,1
+NGLPP,natural gas consumed as lease and plant fuel.,Million cubic feet,1
+NGMPB,natural gas marketed production.,Billion Btu,1
+NGMPK,conversion factor for natural gas marketed production.,Thousand Btu per cubic feet,1
+NGMPP,natural gas marketed production.,Million cubic feet,1
+NGPZB,natural gas consumed as pipeline fuel.,Billion Btu,1
+NGPZP,natural gas consumed as pipeline fuel.,Million cubic feet,1
+NGRCB,natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels).,Billion Btu,1
+NGRCD,natural gas price in the residential sector (including supplemental gaseous fuels).,Dollars per million Btu,1
+NGRCP,natural gas consumed by (delivered to) the residential sector (including supplemental gaseous fuels).,Million cubic feet,1
+NGRCV,natural gas expenditures in the residential sector (including supplemental gaseous fuels).,Million dollars,1
+NGRFB,natural gas consumed as refinery fuel (including supplemental gaseous fuels). ,Billion Btu,1
+NGTCB,natural gas total consumption (including supplemental gaseous fuels).,Billion Btu,1
+NGTCD,"natural gas average price, all sectors (including supplemental gaseous fuels).",Dollars per million Btu,1
+NGTCK,factor for converting natural gas total consumption from physical units to btu.,Thousand Btu per cubic foot,1
+NGTCP,natural gas total consumption (including supplemental gaseous fuels).,Million cubic feet,1
+NGTCV,natural gas total expenditures (including supplemental gaseous fuels).,Million dollars,1
+NGTXB,natural gas total end-use consumption (including supplemental gaseous fuels).,Billion Btu,1
+NGTXD,"natural gas average price, all end-use sectors (including supplemental gaseous fuels).",Dollars per million Btu,1
+NGTXK,factor for converting natural gas consumed by all sectors other than electric power from physical units to btu.,Thousand Btu per cubic foot,1
+NGTXP,natural gas total end-use consumption (including supplemental gaseous fuels).,Million cubic feet,1
+NGTXV,natural gas total end-use expenditures (including supplemental gaseous fuels).,Million dollars,1
+NGVHB,natural gas consumed as vehicle fuel.,Billion Btu,1
+NGVHP,natural gas consumed as vehicle fuel.,Million cubic feet,1
+NNACB,natural gas consumed by the transportation sector.  (code used in seds 2006.),Billion Btu,1
+NNCCB,natural gas consumed by (delivered to) the commercial sector (excluding supplemental gaseous fuels).  (code used in seds 2006.),Billion Btu,1
+NNEIB,natural gas consumed by the electric power sector (excluding supplemental gaseous fuels).  (code used in seds 2006.),Billion Btu,1
+NNICB,natural gas consumed by (delivered to) the industrial sector (excluding supplemental gaseous fuels).  (code used in seds 2006.),Billion Btu,1
+NNRCB,natural gas consumed by (delivered to) the residential sector (excluding supplemental gaseous fuels).  (code used in seds 2006.),Billion Btu,1
+NNTCB,natural gas total consumption (excluding supplemental gaseous fuels).,Billion Btu,1
+NUEGB,electricity produced from nuclear power by the electric power sector.,Billion Btu,1
+NUEGD,nuclear fuel price in the electric power sector.,Dollars per million Btu,1
+NUEGP,electricity produced from nuclear power by the electric power sector.,Million kilowatthours,1
+NUEGV,nuclear fuel expenditures in the electric power sector.,Million dollars,1
+NUETB,electricity produced from nuclear power.,Billion Btu,1
+NUETD,"nuclear fuel average price, all sectors.",Dollars per million Btu,1
+NUETK,"factor for converting electricity produced from nuclear power from physical units to btu, united states only.",Thousand Btu per kilowatthour,1
+NUETP,electricity produced from nuclear power.,Million kilowatthours,1
+NUETV,nuclear fuel total expenditures.,Million dollars,1
+P1ICB,"asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" consumed by the industrial sector.",Billion Btu,1
+P1ICD,"asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" average price in the  industrial sector.",Dollars per million Btu,1
+P1ICP,"asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" consumed by the industrial sector.",Thousand barrels,1
+P1ICV,"asphalt and road oil, kerosene, lubricants, and ""other petroleum products"" expenditures in the  industrial sector.",Million dollars,1
+P1TCB,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total consumption.",Billion Btu,1
+P1TCD,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" average price, all sectors.",Dollars per million Btu,1
+P1TCP,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total consumption.",Thousand barrels,1
+P1TCV,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total expenditures.",Million dollars,1
+P1TXB,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total end-use consumption.",Billion Btu,1
+P1TXD,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" average price, all end-use sectors.",Dollars per million Btu,1
+P1TXP,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total end-use consumption.",Thousand barrels,1
+P1TXV,"asphalt and road oil, aviation gasoline, kerosene, lubricants, and ""other petroleum products"" total end-use expenditures.",Million dollars,1
+PAACB,all petroleum products consumed by the transportation sector.,Billion Btu,1
+PAACD,all petroleum products average price in the transportation sector.,Dollars per million Btu,1
+PAACK,"factor for converting all petroleum products consumed by the transportation sector from physical units to btu, united states only.",Million Btu per barrel,1
+PAACP,all petroleum products consumed by the transportation sector.,Thousand barrels,1
+PAACV,all petroleum products total expenditures in the transportation sector.,Million dollars,1
+PACCB,all petroleum products consumed by the commercial sector.,Billion Btu,1
+PACCD,all petroleum products average price in the commercial sector.,Dollars per million Btu,1
+PACCK,"factor for converting all petroleum products consumed by the commercial sector from physical units to btu, united states only.",Million Btu per barrel,1
+PACCP,all petroleum products consumed by the commercial sector.,Thousand barrels,1
+PACCV,all petroleum products total expenditures in the commercial sector.,Million dollars,1
+PAEIB,all petroleum products consumed by the electric power sector.,Billion Btu,1
+PAEID,all petroleum products average price in the electric power sector.,Dollars per million Btu,1
+PAEIK,"factor for converting all petroleum products consumed by the electric power sector from physical units to btu, united states only.",Million Btu per barrel,1
+PAEIP,all petroleum products consumed by the electric power sector.,Thousand barrels,1
+PAEIV,all petroleum products total expenditures in the electric power sector.,Million dollars,1
+PAHCK,"factor for converting all petroleum products consumed by the residential and commercial sectors from physical units to btu, united states only.",Million Btu per barrel,1
+PAICB,all petroleum products consumed by the industrial sector.,Billion Btu,1
+PAICD,all petroleum products average price in the industrial sector.,Dollars per million Btu,1
+PAICK,"factor for converting all petroleum products consumed by the industrial sector from physical units to btu, united states only.",Million Btu per barrel,1
+PAICP,all petroleum products consumed by the industrial sector.,Thousand barrels,1
+PAICV,all petroleum products total expenditures in the industrial sector.,Million dollars,1
+PAPRB,crude oil production (including lease condensate).,Billion Btu,1
+PAPRP,crude oil production (including lease condensate).,Thousand barrels,1
+PARCB,all petroleum products consumed by the residential sector.,Billion Btu,1
+PARCD,all petroleum products average price in the residential sector.,Dollars per million Btu,1
+PARCK,"factor for converting all petroleum products consumed by the residential sector from physical units to btu, united states only.",Million Btu per barrel,1
+PARCP,all petroleum products consumed by the residential sector.,Thousand barrels,1
+PARCV,all petroleum products total expenditures in the residential sector.,Million dollars,1
+PATCB,all petroleum products total consumption.,Billion Btu,1
+PATCD,"all petroleum products average price, all sectors.",Dollars per million Btu,1
+PATCK,"factor for converting all petroleum products total consumption from physical units to btu, united states only.",Million Btu per barrel,1
+PATCP,all petroleum products total consumption.,Thousand barrels,1
+PATCV,all petroleum products total expenditures.,Million dollars,1
+PATXB,all petroleum products total end-use consumption.,Billion Btu,1
+PATXD,"all petroleum products average price, all end-use sectors.",Dollars per million Btu,1
+PATXP,all petroleum products total end-use consumption.,Thousand barrels,1
+PATXV,all petroleum products total end-use expenditures.,Million dollars,1
+PCCCB,petroleum coke consumed by the commercial sector.,Billion Btu,1
+PCCCD,petroleum coke price in the commercial sector.,Dollars per million Btu,1
+PCCCP,petroleum coke consumed by the commercial sector.,Thousand barrels,1
+PCCCV,petroleum coke expenditures in the commercial sector.,Million dollars,1
+PCEIB,petroleum coke consumed by the electric power sector.,Billion Btu,1
+PCEID,petroleum coke price in the electric power sector.,Dollars per million Btu,1
+PCEIP,petroleum coke consumed by the electric power sector.,Thousand barrels,1
+PCEIV,petroleum coke expenditures in the electric power sector.,Million dollars,1
+PCICB,petroleum coke consumed by the industrial sector.,Billion Btu,1
+PCICD,petroleum coke price in the industrial sector.,Dollars per million Btu,1
+PCICP,petroleum coke consumed by the industrial sector.,Thousand barrels,1
+PCICV,petroleum coke expenditures in the industrial sector.,Million dollars,1
+PCISB,petroleum coke price in the industrial sector excluding refinery fuel.,Billion Btu,1
+PCRFB,petroleum coke consumed as refinery fuel.,Billion Btu,1
+PCTCB,petroleum coke total consumption.,Billion Btu,1
+PCTCD,"petroleum coke average price, all sectors.",Dollars per million Btu,1
+PCTCP,petroleum coke total consumption.,Thousand barrels,1
+PCTCV,petroleum coke total expenditures.,Million dollars,1
+PEACD,primary energy average price in the transportation sector.,Dollars per million Btu,1
+PEACV,primary energy total expenditures in the transportation sector.,Million dollars,1
+PECCD,primary energy average price in the commercial sector.,Dollars per million Btu,1
+PECCV,primary energy total expenditures in the commercial sector.,Million dollars,1
+PEEID,primary energy average price in the electric power sector.,Dollars per million Btu,1
+PEEIV,primary energy total expenditures in the electric power sector.,Million dollars,1
+PEICD,primary energy average price in the industrial sector.,Dollars per million Btu,1
+PEICV,primary energy total expenditures in the industrial sector.,Million dollars,1
+PERCD,primary energy average price in the residential sector.,Dollars per million Btu,1
+PERCV,primary energy total expenditures in the residential sector.,Million dollars,1
+PETCD,"primary energy average price, all sectors.",Dollars per million Btu,1
+PETCV,primary energy total expenditures.,Million dollars,1
+PETXD,"primary energy average price, all end-use sectors.",Dollars per million Btu,1
+PETXV,primary energy total end-use expenditures.,Million dollars,1
+PMTCB,all petroleum products total consumption excluding fuel ethanol.,Billion Btu,1
+PPICB,pentanes plus consumed by the industrial sector.,Billion Btu,1
+PPICP,pentanes plus consumed by the industrial sector.,Thousand barrels,1
+RFACB,residual fuel oil consumed by the transportation sector.,Billion Btu,1
+RFACD,residual fuel oil price in the transportation sector.,Dollars per million Btu,1
+RFACP,residual fuel oil consumed by the transportation sector.,Thousand barrels,1
+RFACV,residual fuel oil expenditures in the transportation sector.,Million dollars,1
+RFCCB,residual fuel oil consumed by the commercial sector.,Billion Btu,1
+RFCCD,residual fuel oil price in the commercial sector.,Dollars per million Btu,1
+RFCCP,residual fuel oil consumed by the commercial sector.,Thousand barrels,1
+RFCCV,residual fuel oil expenditures in the commercial sector.,Million dollars,1
+RFEIB,residual fuel oil consumed by the electric power sector.,Billion Btu,1
+RFEID,residual fuel oil price in the electric power sector.,Dollars per million Btu,1
+RFEIP,residual fuel oil consumed by the electric power sector.,Thousand barrels,1
+RFEIV,residual fuel oil expenditures in the electric power sector.,Million dollars,1
+RFICB,residual fuel oil consumed by the industrial sector.,Billion Btu,1
+RFICD,residual fuel oil price in the industrial sector.,Dollars per million Btu,1
+RFICP,residual fuel oil consumed by the industrial sector,Thousand barrels,1
+RFICV,residual fuel oil expenditures in the industrial sector.,Million dollars,1
+RFISB,residual fuel oil consumed by the industrial sector excluding refinery fuel.,Billion Btu,1
+RFRFB,residual fuel oil consumed as refinery fuel.,Billion Btu,1
+RFTCB,residual fuel oil total consumption.,Billion Btu,1
+RFTCD,"residual fuel oil average price, all sectors.",Dollars per million Btu,1
+RFTCP,residual fuel oil total consumption.,Thousand barrels,1
+RFTCV,residual fuel oil total expenditures.,Million dollars,1
+RFTXB,residual fuel oil total end-use consumption.,Billion Btu,1
+RFTXD,"residual fuel oil average price, all end-use sectors.",Dollars per million Btu,1
+RFTXP,residual fuel oil total end-use consumption.,Thousand barrels,1
+RFTXV,residual fuel oil total end-use expenditures.,Million dollars,1
+ROPRB,"renewable energy production, other than fuel ethanol.",Billion Btu,1
+SFCCB,supplemental gaseous fuels consumed by the commercial sector.,Billion Btu,1
+SFEIB,supplemental gaseous fuels consumed by the electric power sector.,Billion Btu,1
+SFINB,supplemental gaseous fuels consumed by the industrial sector.,Billion Btu,1
+SFRCB,supplemental gaseous fuels consumed by the residential sector.,Billion Btu,1
+SFTCB,supplemental gaseous fuels total consumption.,Billion Btu,1
+SGICB,still gas consumed by the industrial sector.,Billion Btu,1
+SGICP,still gas consumed by the industrial sector.,Thousand barrels,1
+SOEGB,electricity produced from photovoltaic and solar thermal energy by the electric power sector.,Billion Btu,1
+SOEGP,electricity produced from photovoltaic and solar thermal energy by the electric power sector.,Million kilowatthours,1
+TERFB,total energy used as refinery fuel.,Billion Btu,1
+TNSCB,total primary energy and electricity consumed.,Billion Btu,1
+TNTXB,total primary energy and electricity consumed by the end-use sectors.,Billion Btu,1
+UOICB,unfinished oils consumed by the industrial sector.,Billion Btu,1
+UOICP,unfinished oils consumed by the industrial sector.,Thousand barrels,1
+USICB,unfractionated stream consumed by the industrial sector.,Billion Btu,1
+USICP,unfractionated stream consumed by the industrial sector.,Thousand barrels,1
+WDCCB,wood consumed by the commercial sector,Billion Btu,1
+WDEIB,wood and waste consumed by the electric power sector.,Billion Btu,1
+WDICB,wood consumed by the industrial sector.,Billion Btu,1
+WDRCB,wood consumed by the residential sector.,Billion Btu,1
+WDRCD,wood price in the residential sector.,Dollars per million Btu,1
+WDRCP,wood consumed by the residential sector.,Thousand cords,1
+WDRCV,wood expenditures in the residential sector. ,Million dollars,1
+WDRSB,wood consumed in the residential sector at a cost.,Billion Btu,1
+WDRXB,wood consumed in the residential sector at no cost.,Billion Btu,1
+WWCCB,wood and waste consumed by the commercial sector.,Billion Btu,1
+WWCCD,wood and waste price in the commercial sector.,Dollars per million Btu,1
+WWCCV,wood and waste expenditures in the commercial sector.,Million dollars,1
+WWCSB,wood and waste consumed in the commercial sector at a cost.,Billion Btu,1
+WWCXB,wood and waste consumed in the commercial sector at no cost.,Billion Btu,1
+WWEIB,wood and waste consumed by the electric power sector.,Billion Btu,1
+WWEID,wood and waste price in the electric power sector.,Dollars per million Btu,1
+WWEIV,wood and waste expenditures in the electric power sector.,Million dollars,1
+WWICB,wood and waste consumed by the industrial sector.,Billion Btu,1
+WWICD,wood and waste price in the industrial sector.,Dollars per million Btu,1
+WWICV,wood and waste expenditures in the industrial sector.,Million dollars,1
+WWISB,wood and waste consumed in the industrial sector at a cost.,Billion Btu,1
+WWIXB,wood and waste consumed in the industrial sector at no cost.,Billion Btu,1
+WWTCB,wood and waste total consumption.,Billion Btu,1
+WWTCD,"wood and waste average price, all sectors.",Dollars per million Btu,1
+WWTCV,wood and waste total expenditures.,Million dollars,1
+WWTXB,wood and waste total end-use consumption.,Billion Btu,1
+WWTXD,"wood and waste average price, all end-use sectors.",Dollars per million Btu,1
+WWTXV,wood and waste total end-use expenditures.,Million dollars,1
+WXICB,waxes consumed by the industrial sector.,Billion Btu,1
+WXICD,waxes price in the industrial sector.,Dollars per million Btu,1
+WXICP,waxes consumed by the industrial sector.,Thousand barrels,1
+WXICV,waxes expenditures in the industrial sector.,Million dollars,1
+WYEGB,electricity produced from wind energy by the electric power sector.,Billion Btu,1
+WYEGP,electricity produced from wind energy by the electric power sector.,Million kilowatthours,1
+WYTCB,electricity produced from wind energy.,Billion Btu,1
